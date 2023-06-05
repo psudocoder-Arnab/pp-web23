@@ -1,0 +1,188 @@
+#GIF_1{
+    width: 100%;
+    height: auto;
+}
+
+.info{
+    color: aquamarine;
+    text-align: center;
+    padding-bottom: 250px;
+}
+
+body{
+    padding: 0%;
+    background-image:url("bg.JPG");
+}
+
+section{
+    padding-bottom: 1300px;
+}
+/*-------------------------------------------------------------------------------------------------------*/
+
+
+.title_intro{
+    size: 10%;
+    color: whitesmoke;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.title_sun{
+    size: 10%;
+    color: orangered;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.title_mer{
+    size: 10%;
+    color: rgb(252, 252, 252, 0.37);
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.title_venus{
+    size: 10%;
+    color: rgb(173, 147, 29);
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.title_earth{
+    size: 10%;
+    color: rgb(6, 161, 76);
+    text-align: center;
+    padding-bottom: 100px; 
+}
+
+.title_Mars{
+    size: 10%;
+    color: darkred;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.title_Jupiter{
+    size: 10%;
+    color: darkgoldenrod;
+    text-align: center;
+    padding-bottom: 100px; 
+}
+
+.title_Saturn{
+    size: 10%;
+    color: rgb(156, 156, 63);
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+.Intro{
+    color: aliceblue;
+}
+
+.sol_left_side{
+    float: left;
+    width: 40%;
+    padding: 5%;
+}
+
+.sol_right_side{
+    float: right;
+    width: 40%;
+    padding: 5%;
+}
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+.sun{
+    color: rgb(221, 138, 43);
+}
+
+.sun_left_side{
+    float: left;
+    width: 40%;
+    padding: 5%;
+}
+
+.sun_right_side{
+    float: right;
+    width: 40%;
+    padding: 5%;
+}
+
+.sun_image{
+    width: auto;
+    height: 500px;
+}
+
+/*-------------------------------------------------------------------------------------------------------*/
+
+.Mercury{
+    color: gray;
+}
+
+.mer_left_side{
+    float: left;
+    width: 39%;
+    padding: 5%;
+}
+
+.mer_right_side{
+    float: right;
+    width: 39%;
+    padding: 5%;
+}
+
+.mer_image{
+    width: auto;
+    height: 340px;
+}
+/*--------------------------------------------------------------------------------------------------------------*/
+
+.Venus{
+    color: rgb(202, 156, 57);
+}
+
+/*---------------------------------------------------------------------------------------------------------------*/
+.Earth{
+    color: darkgreen;
+}
+
+/*-----------------------------------------------------------------------------------------------------------*/
+
+.Mars{
+    color: rgb(226, 89, 35);
+}
+
+/*-----------------------------------------------------------------------------------------------------------*/
+
+.Jupiter{
+    color: rgb(194, 156, 106);
+}
+
+/*-----------------------------------------------------------------------------------------------------------*/
+
+
+.pla_left_side{
+    float: left;
+    width: 39%;
+    padding: 5%;
+}
+
+.pla_right_side{
+    float: right;
+    width: 39%;
+    padding: 5%;
+}
+.pla_image{
+    width: 500px;
+    height: auto;
+}
+
+
+.end{
+    text-align: center;
+    color: snow;
+}
